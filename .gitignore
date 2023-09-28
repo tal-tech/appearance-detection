@@ -1,0 +1,2 @@
+model/description_model/Appearance_PretrainedBert_1e-05_64_None.pt
+model/bert_chinese_wwm_ext_pytorch/pytorch_model.bin

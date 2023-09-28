@@ -1,0 +1,12 @@
+torch==1.1.0
+transformers==2.3.0
+pytorch_transformers==1.2.0
+scikit-learn==0.20.2
+jieba==0.39
+pandas==0.25.3
+tensorflow-gpu==1.13.1
+keras==2.3.1
+bert4keras==0.9.8
+h5py==2.10
+Keras-Preprocessing==1.1.0
+
